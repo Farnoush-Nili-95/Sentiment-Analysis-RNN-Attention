@@ -22,8 +22,6 @@ Baseline LSTM Accuracy: 74.97%
 
 LSTM with Attention Accuracy: 88.66%
 
-Video Walkthrough
-https://temple.zoom.us/rec/play/HfCW0Rcq8AzwVVz4E6C3CSkxdIuPslPK8ZDloVHxxXpa5phUkKwIedWzR8b_gJr7xacpJEhr58jO5cUN.bddIijcY5-x5mKuH?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Ftemple.zoom.us%2Frec%2Fshare%2FP3C9fo7Y_hqHCBKT3Yl08XMTG98k7Dcmu3ET-PlBc1_CJzIlicvPrTaAL8d-OT0k.ZwCHFcrtsiONCIXz
 
 The Journey & Challenges (Adversity)
 
